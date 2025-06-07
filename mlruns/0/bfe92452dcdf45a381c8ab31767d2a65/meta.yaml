@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/bfe92452dcdf45a381c8ab31767d2a65/artifacts
+deleted_time: 1749149080208
+end_time: 1749149041639
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: bfe92452dcdf45a381c8ab31767d2a65
+run_name: defiant-horse-473
+run_uuid: bfe92452dcdf45a381c8ab31767d2a65
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749149041631
+status: 4
+tags: []
+user_id: shubham_chitaguppe

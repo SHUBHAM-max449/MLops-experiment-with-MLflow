@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shubham_chitaguppe/Desktop/MLOps/MLops-experiment-with-MLflow/mlruns/857447358246392748/8cfa1900da16414c8e57ef9a8f315325/artifacts
+end_time: 1749151262672
+entry_point_name: ''
+experiment_id: '857447358246392748'
+lifecycle_stage: active
+run_id: 8cfa1900da16414c8e57ef9a8f315325
+run_name: puzzled-dolphin-816
+run_uuid: 8cfa1900da16414c8e57ef9a8f315325
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749151262272
+status: 4
+tags: []
+user_id: shubham_chitaguppe

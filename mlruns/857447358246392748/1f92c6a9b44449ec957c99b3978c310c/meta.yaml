@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shubham_chitaguppe/Desktop/MLOps/MLops-experiment-with-MLflow/mlruns/857447358246392748/1f92c6a9b44449ec957c99b3978c310c/artifacts
+end_time: 1749151389882
+entry_point_name: ''
+experiment_id: '857447358246392748'
+lifecycle_stage: active
+run_id: 1f92c6a9b44449ec957c99b3978c310c
+run_name: kindly-kite-165
+run_uuid: 1f92c6a9b44449ec957c99b3978c310c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749151387036
+status: 3
+tags: []
+user_id: shubham_chitaguppe

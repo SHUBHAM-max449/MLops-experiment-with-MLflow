@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/c635f733068d4b6799f1c37f00df075d/artifacts
+end_time: 1749150104621
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c635f733068d4b6799f1c37f00df075d
+run_name: clean-auk-120
+run_uuid: c635f733068d4b6799f1c37f00df075d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749150104263
+status: 4
+tags: []
+user_id: shubham_chitaguppe

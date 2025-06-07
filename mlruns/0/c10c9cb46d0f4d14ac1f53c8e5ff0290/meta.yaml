@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/c10c9cb46d0f4d14ac1f53c8e5ff0290/artifacts
+end_time: 1749149760048
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c10c9cb46d0f4d14ac1f53c8e5ff0290
+run_name: able-swan-372
+run_uuid: c10c9cb46d0f4d14ac1f53c8e5ff0290
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749149759745
+status: 4
+tags: []
+user_id: shubham_chitaguppe

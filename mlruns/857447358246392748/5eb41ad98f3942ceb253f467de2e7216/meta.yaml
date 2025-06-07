@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shubham_chitaguppe/Desktop/MLOps/MLops-experiment-with-MLflow/mlruns/857447358246392748/5eb41ad98f3942ceb253f467de2e7216/artifacts
+end_time: 1749150664920
+entry_point_name: ''
+experiment_id: '857447358246392748'
+lifecycle_stage: active
+run_id: 5eb41ad98f3942ceb253f467de2e7216
+run_name: tasteful-gnu-355
+run_uuid: 5eb41ad98f3942ceb253f467de2e7216
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749150664551
+status: 3
+tags: []
+user_id: shubham_chitaguppe
